@@ -62,4 +62,9 @@ object Symbol {
     const val GIFT = "🎁"
     const val JAPANESE_CASTLE = "\uD83C\uDFEF"
     const val BELL = "🔔"
+    const val COFFEE = "☕"
+    const val PENCIL = "✎"
+    const val SNOWMAN = "☃"
+    const val TICK = "✓"
+    const val CROSS = "✖"
 }
